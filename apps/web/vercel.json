@@ -1,3 +1,4 @@
 {
-    "buildCommand": "cd ../.. && turbo run build --filter={projects/web}"
+  "buildCommand": "cd ../.. && turbo run build --filter={projects/web}",
+  "outputDirectory": "../../projects/web/.next"
 }
